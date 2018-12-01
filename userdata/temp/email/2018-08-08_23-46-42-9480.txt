@@ -1,0 +1,12 @@
+To: clydecaramba@gmail.com
+Subject: =?utf-8?B?0KLQtdGB0YLQvtCy0L7QtSDRgdC+0L7QsdGJ0LXQvdC40LUg0L7RgiAi0K4=?=  =?utf-8?B?0JrQkNChLdCQ0LPRgNC+Ii3QotC10YXQvdC+0LvQvtCz0LjQuCDRgtC+0Yc=?=  =?utf-8?B?0L3QvtCz0L4g0LfQtdC80LvQtdC00LXQu9C40Y8=?=
+X-PHP-Originating-Script: 0:class.phpmailer.php
+Date: Wed, 8 Aug 2018 21:46:42 +0300
+From: =?utf-8?B?0K7QmtCQ0KEt0JDQs9GA0L4=?= <clydecaramba@gmail.com>
+Reply-To: sulimov.v.i@gmail.com
+Message-ID: <d48a0bfc2e0f9fcf0d161d70fb9786fd@localhost>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Это тестовое сообщение отправлено с помощью «PHP Mail». Если вы получили его, настройки электронной почты установлены правильно!

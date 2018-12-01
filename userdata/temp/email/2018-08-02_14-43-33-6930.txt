@@ -1,0 +1,86 @@
+To: abc@abc.abc
+Subject: =?utf-8?B?0JLQvtC/0YDQvtGBINC+IFRyaW1ibGUgQWdHUFMgRm1Y?=
+X-PHP-Originating-Script: 0:class.phpmailer.php
+Date: Thu, 2 Aug 2018 12:43:33 +0300
+From: =?utf-8?B?0K7QmtCQ0KEt0JDQs9GA0L4=?= <clydecaramba@gmail.com>
+Reply-To: Super User <clydecaramba@gmail.com>
+Message-ID: <37f00eedf92f8482eca1110db399a1e4@localhost>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+	<head>
+		<style type="text/css">
+			body, td, span, p, th { font-size: 12px; font-family: arial, helvetica, sans-serif; }
+			table, tr, td { border: 0; background:#fff;}
+			table.html-email {margin:10px auto;background:#fff; #dad8d8 1px;}
+			h2 { font-size: 1.6em; font-weight: normal; margin: 0px; padding: 0px; }
+			img {border: none;}
+			a {text-decoration: none; color: #000;}
+			a.product-details, a.product-details:visited { 
+				border: solid #CAC9C9 1px; 
+				border-radius: 4px;
+				-webkit-border-radius: 4px;
+				-moz-border-radius: 4px;
+				color: #555;
+				text-decoration: none;
+				padding: 3px 8px 2px 8px;
+			}
+			a.product-details:hover {color:#888;background: #f8f8f8;}; 
+		</style>
+	</head>
+
+	<body style="background: #F2F2F2;word-wrap: break-word;">
+	<div width="100%">
+		<table style="margin: auto; width: 600px; border: solid #dad8d8 1px" cellpadding="0" cellspacing="0"  >
+			<tr>
+				<td valign="top" align="center" style="padding: 15px 25px;">
+
+					<img src="http://localhost/images/stories/virtuemart/vendor/" />
+
+					<table  border="0" cellpadding="0" cellspacing="0" class="html-email" width="100%">
+
+						<tr>
+							<td align="center" style="border-bottom : 1px solid #dad8d8;">
+								<span style="font-size: 14px; font-weight: bold">Вопрос был задан по Super User (clydecaramba@gmail.com)</span>
+								<br /><br />12344444444444444444444444444444444444444444444444444444444444<br /><br />
+							</td>
+						</tr>
+
+						<tr>
+							<td align="center" style="border-bottom : 1px solid #dad8d8; padding: 15px;">
+								<table width="100%" cellpadding="0" cellspacing="0">
+									<tr>
+																				<td width="30%" align="center">
+											<a href="http://localhost/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1&Itemid=108">
+												<img src="http://localhost/images/stories/virtuemart/product/resized/FmX_0x350.jpg" alt="FmX"  />											</a>
+										</td>
+										<td width="70%" valign="top">
+											<h2>
+												Trimble AgGPS FmX																							</h2>
+											<p style="margin: 15px 0; display:block;">Trimble® AgGPS® FmX™ - Первый в мире дисплей с сенсорным экраном, двойным интегрированным приёмником GPS+ГЛОНАСС. Интегрированный дисплей AgGPS® FmX™ с поддержкой всех необходимых функций навигации, вождения и картирования, доступных одним касанием пальца — недорогое решение для желающих освоить новые технологии точного земледелия.
+
+Экран
+30.7 см
+Сенсорный
+Да
+Зашита
+IP54
+Сигнал
+GPS|ГЛОНАСС</p>
+											<a href="http://localhost/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1&Itemid=108" class="product-details">Product details</a>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+
+					</table>
+
+				</td>
+			</tr>
+		</table>
+	</div>
+	</body>
+</html>

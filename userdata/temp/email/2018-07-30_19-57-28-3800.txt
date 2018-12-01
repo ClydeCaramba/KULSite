@@ -1,0 +1,14 @@
+To: sulimov.v.i@gmail.com
+Subject: =?UTF-8?Q?=D0=AE=D0=9A=D0=90=D0=A1-=D0=90=D0=B3=D1=80=D0=BE_-_YOUR=5FREGI?=  =?UTF-8?Q?STRATION=5FIS=5FAPPROVED=5FSUBJECT?=
+X-PHP-Originating-Script: 0:CBPHPMailer.php
+Date: Mon, 30 Jul 2018 17:57:28 +0300
+From: =?UTF-8?B?0K7QmtCQ0KEt0JDQs9GA0L4gU2lnbiBVcA==?= <clydecaramba@gmail.com>
+Message-ID: <8f4d833fa0a668ecf9d29046ad7d8c9f@localhost>
+X-Mailer: PHPMailer 5.2.26 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+YOUR_REGISTRATION_IS_APPROVED_MESSAGE
+
+NOTE: This email was automatically generated from ЮКАС-Агро (http://localhost).

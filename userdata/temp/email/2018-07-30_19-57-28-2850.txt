@@ -1,0 +1,22 @@
+To: sulimov.v.i@gmail.com
+Subject: =?utf-8?B?0JTQsNC90L3Ri9C1INC90L7QstC+0LPQviDQv9C+0LvRjNC30L7QstCw0YI=?=  =?utf-8?B?0LXQu9GP?=
+X-PHP-Originating-Script: 0:class.phpmailer.php
+Date: Mon, 30 Jul 2018 17:57:28 +0300
+From: =?utf-8?B?0K7QmtCQ0KEt0JDQs9GA0L4=?= <clydecaramba@gmail.com>
+Message-ID: <73607ac1c4ad0a9af476c952c89e35e0@localhost>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Здравствуйте Test One,
+
+
+Вы зарегистрированы на сайте «ЮКАС-Агро».
+
+Это письмо содержит логин и пароль для доступа к сайту http://localhost/
+
+Логин: TestOne
+Пароль: 123456
+
+
+Пожалуйста, не отвечайте на это письмо. Оно было сгенерировано автоматически, исключительно с целью проинформировать вас.

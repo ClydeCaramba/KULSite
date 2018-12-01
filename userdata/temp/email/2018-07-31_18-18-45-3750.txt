@@ -1,0 +1,27 @@
+To: TestTwo@abc.abc
+Subject: =?UTF-8?Q?=D0=AE=D0=9A=D0=90=D0=A1-=D0=90=D0=B3=D1=80=D0=BE_-_Your_sign_u?=  =?UTF-8?Q?p_request_is_pending_approval?=
+X-PHP-Originating-Script: 0:CBPHPMailer.php
+Date: Tue, 31 Jul 2018 16:18:45 +0300
+From: =?UTF-8?B?0K7QmtCQ0KEt0JDQs9GA0L4gU2lnbiBVcA==?= <clydecaramba@gmail.com>
+Message-ID: <83bbbe629de928f0759d01fd01b5a9fd@localhost>
+X-Mailer: PHPMailer 5.2.26 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Greetings Test Two,
+Thank you for signing up with us. We have
+received your request and we will process it as soon as you
+confirm your email address by clicking on the following
+hyperlink:
+
+Once your email address is confirmed our moderators will be
+notified to continue the activation process.
+You will be notified by email of the progress of your sign up process.
+Email: TestTwo@abc.abc
+Name: Test Two
+Username: TestTwo
+Kind Regards,
+Website Administration Team
+
+NOTE: This email was automatically generated from ЮКАС-Агро (http://localhost).
